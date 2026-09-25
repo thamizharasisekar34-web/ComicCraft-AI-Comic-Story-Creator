@@ -1,6 +1,15 @@
 # 🎨 ComicCraft - AI Comic Story Creator
 
 ComicCraft is an AI-powered comic story creator built using Google Gemini models and Streamlit.
+## 📂 Project Structure
+
+```text
+ComicCraft/
+│
+├── comic_app.py
+├── README.md
+├── .env
+└── requirements.txt
 
 ## 🚀 Features
 
@@ -22,12 +31,3 @@ ComicCraft is an AI-powered comic story creator built using Google Gemini models
 - Google GenAI SDK
 - python-dotenv
 
-## 📂 Project Structure
-
-```text
-ComicCraft/
-│
-├── comic_app.py
-├── README.md
-├── .env
-└── requirements.txt
