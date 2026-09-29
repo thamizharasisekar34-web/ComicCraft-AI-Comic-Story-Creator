@@ -1,7 +1,5 @@
 # ComicCraft – AI Comic Story Creator using Gemini Models
 
-This package reorganizes the ComicCraft project into the structure of the **AI-ML-and-GEN-AI-Track-Project-Template-main** project template.
-
 ## Included sections
 1. Brainstorming & Ideation
 2. Requirement Analysis
